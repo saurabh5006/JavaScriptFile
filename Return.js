@@ -9,3 +9,5 @@ let newmeet = function(n){
         console.log("even")
     }
 }
+
+let a = 23;
